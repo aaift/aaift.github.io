@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aaift.github.io/wWp/sitemap.wWp.gz
